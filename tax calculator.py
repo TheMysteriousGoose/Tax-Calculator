@@ -22,7 +22,7 @@ class color:
 
 def main():
     print("\n")
-    print(color.BOLD, color.BLUE +'Hello Jack!' + color.END)
+    print(color.BOLD, color.BLUE +'Hello ...!' + color.END)
     print("What calculation would you like to complete today?\n") 
     print(cis,"\n",income,"\n")
     
